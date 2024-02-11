@@ -3,4 +3,4 @@ Developing Frontend skills using Frontend Webmasters Challenge - Focusing on HTM
 
 Basic HTML code to create a product preview card that gives product image and details with add cart options.
 
-![alt text](http://url/to/img.png)
+![Product Card Preview](https://github.com/tsyed171/UI_Projects/blob/master/product-preview-card/images/final_progress.png)
