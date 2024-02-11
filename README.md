@@ -1,2 +1,4 @@
 # UI_Projects
-Developing Frontend skills using Frontend Webmasters Challenge - Focusing on HTML and CSS
+Developing Frontend skills; Repo for UI skill building
+
+Product Preview Card: Basic HTML and CSS
